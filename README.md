@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## Project info
-Simple shopping cart created in React.
+Simple shopping cart created with React.
 
 ## Technologies
 Project is created with:
