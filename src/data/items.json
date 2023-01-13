@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 14 Pro",
+    "price": 1399.99,
+    "imgUrl": "/imgs/iphone.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Xiaomi Mi Band 6",
+    "price": 49.99,
+    "imgUrl": "/imgs/xiaomi-band.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Samsung Galaxy S22",
+    "price": 849,
+    "imgUrl": "/imgs/samsung-s22.jpg"
+  },
+  {
+    "id": 4,
+    "name": "DJI Mavic 3",
+    "price": 2190.7,
+    "imgUrl": "/imgs/mavic.jpg"
+  }
+]
