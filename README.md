@@ -19,7 +19,7 @@ Project is created with:
 To run this project, install it locally using npm:
 
 ```
-cd ../table-exercise
+cd ../shopping-cart
 npm install
 npm run dev
 ```
